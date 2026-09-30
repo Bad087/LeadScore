@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate CRM ML - Applied ML Scientist Capstone",
+  "description": "Production-grade multi-task ML pipeline for Real Estate CRM: Lead Scoring, Brokerage Agent Churn, CLV, SHAP XAI, PyTorch Tabular & Hugging Face NLP Fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
