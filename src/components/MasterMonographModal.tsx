@@ -176,7 +176,7 @@ export const MasterMonographModal: React.FC<MasterMonographModalProps> = ({ isOp
               <div className="text-sm text-slate-300 space-y-3 leading-relaxed">
                 <h4 className="text-base font-bold text-white">The Structural Challenge in Indian Real Estate Brokerages</h4>
                 <p>
-                  Indian residential real estate represents over ₹12 Lakh Crores ($145B USD) in annual market activity. However, organized property brokerages experience structural inefficiencies: overall lead conversion rates languish between 12% and 16%, while sales relationship managers spend 75% of their working hours escorting speculative inquiries on futile physical property viewings.
+                  Indian residential real estate represents over ₹12 Lakh Crores in annual market activity. However, organized property brokerages experience structural inefficiencies: overall lead conversion rates languish between 12% and 16%, while sales relationship managers spend 75% of their working hours escorting speculative inquiries on futile physical property viewings.
                 </p>
                 <p>
                   Traditional CRM round-robin allocation fails because high-intent, salaried buyers with verified bank pre-sanction letters experience delayed callbacks (&gt;4 hours), resulting in 42% lead attrition to competing agencies. Concurrently, relationship managers exhaust substantial travel allowances (₹8,000 per inspection) on buyers who fail down-payment or CIBIL criteria.
